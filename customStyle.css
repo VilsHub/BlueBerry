@@ -1,0 +1,8 @@
+yourFormID .labelIcon::before{
+	/* font-family: vicon;
+	background-color: #9b9794;
+	color: purple; */
+}
+yourFormID .labelIcon[data-state="active"]::after, yourFormID .multipleLine [data-state="active"]::after, yourFormID .legend-right::before, yourFormID .legend-left::before{
+	/* background-color: #ccc; */
+}
